@@ -60,6 +60,7 @@ flutter:
    - assets/img/register-bg.png
    - assets/img/chat-avatar.jpeg
    - assets/img/argon-logo.png
+   - assets/img/argon-logo-onboarding.png
 
   fonts:
     - family: OpenSans

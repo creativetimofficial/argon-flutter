@@ -22,27 +22,31 @@ class Onboarding extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
+                Image.asset("assets/img/argon-logo-onboarding.png", scale: 1),
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   mainAxisAlignment: MainAxisAlignment.end,
                   children: [
-                    Image.asset("assets/img/logo-argon.png", scale: 1),
-                    SizedBox(height: 16.0),
                     Padding(
                       padding: const EdgeInsets.only(right: 48.0),
                       child: Text.rich(TextSpan(
-                        text: "Argon Design System",
-                        style: TextStyle(color: Colors.white, fontSize: 58),
+                        text: "Design System",
+                        style: TextStyle(
+                            color: Colors.white,
+                            fontSize: 58,
+                            fontWeight: FontWeight.w600),
                       )),
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.only(top: 24.0),
+                      child: Text("Fully coded Flutter widgets and screens.",
+                          style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 18,
+                              fontWeight: FontWeight.w200)),
                     ),
                   ],
                 ),
-                Text("Fully coded Flutter widgets and screens.",
-                    style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 18,
-                        fontWeight: FontWeight.w200)),
-                // SizedBox(height: 26.0),
                 Padding(
                   padding: const EdgeInsets.only(top: 16.0),
                   child: SizedBox(
