@@ -6,18 +6,18 @@
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-flutter/argp-flutter-thumbnail.jpg)
 
-Argon Pro Flutter is a premium mobile UI template built with Google's [Flutter](https://flutter.dev/) allowing you to create powerful and beautiful mobile applications.. We have redesigned all the usual components in order to make it look like Argon's Design System, minimalistic and easy to use.
+Argon Flutter is a free mobile UI template built with Google's [Flutter](https://flutter.dev/) allowing you to create powerful and beautiful mobile applications.. We have redesigned all the usual components in order to make it look like Argon's Design System, minimalistic and easy to use.
 
 Start your development with a badass Design System for Flutter inspired by Argon Design System. If you like Argon's Design System, you will love this Flutter app template! It features a huge number of components and screens built to fit together and look amazing. 
 
 ### FULLY CODED COMPONENTS
 
-Argon PRO Flutter features over 200 variations of widgets like buttons, inputs, cards, navigations etc, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify inside our theme file.
+Argon Flutter features over 100 variations of widgets like buttons, inputs, cards, navigations etc, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify inside our theme file.
 
 You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. We wanted the design process to be seamless, so switching from image to the real page is very easy to do.
 
 ### Widgets & Cards
-Argon PRO Flutter comes packed with a large number of components and cards. Putting together a mobile app has never been easier than matching together different widgets. From the profile screen to a settings screen, you can easily customise and build your screens. We have created multiple options for you to put together and customise into pixel perfect screens. 
+Argon Flutter comes packed with a large number of components and cards. Putting together a mobile app has never been easier than matching together different widgets. From the profile screen to a settings screen, you can easily customise and build your screens. We have created multiple options for you to put together and customise into pixel perfect screens. 
 
 View [ all widgets/cards here](https://demos.creative-tim.com/argon-flutter/index.html#cards).
 
@@ -68,11 +68,12 @@ Let us know your thoughts below. And good luck with development!
 [View more](https://demos.creative-tim.com/argon-flutter)
 
 ## Quick start
-- Buy from [Creative Tim](https://www.creative-tim.com/product/argon-flutter)
+- Download this from [Creative Tim](https://www.creative-tim.com/product/argon-flutter)
+- Buy the PRO version from [Creative Tim](https://www.creative-tim.com/product/argon-pro-flutter)
 
 
 ## Documentation
-The documentation for the Argon PRO Flutter is hosted at our [website](https://demos.creative-tim.com/argon-flutter/docs/).
+The documentation for the Argon Flutter is hosted at our [website](https://demos.creative-tim.com/argon-flutter/docs/).
 
 
 ## File Structure
@@ -86,29 +87,16 @@ Within the download you'll find the following directories and files:
 ├── ios
 ├── lib
 │   ├── constants
-│   │   ├── Images.dart
 │   │   └── Theme.dart
 │   ├── main.dart
 │   ├── screens
-│   │   ├── about.dart
-│   │   ├── agreement.dart
 │   │   ├── articles.dart
-│   │   ├── beauty.dart
-│   │   ├── cart.dart
-│   │   ├── category.dart
-│   │   ├── chat.dart
 │   │   ├── elements.dart
-│   │   ├── fashion.dart
 │   │   ├── home.dart
-│   │   ├── notifications-settings.dart
-│   │   ├── notifications.dart
 │   │   ├── onboarding.dart
-│   │   ├── privacy.dart
-│   │   ├── product.dart
+│   │   ├── pro.dart
 │   │   ├── profile.dart
 │   │   ├── register.dart
-│   │   ├── search.dart
-│   │   └── settings.dart
 │   └── widgets
 │       ├── button.dart
 │       ├── card-category.dart
@@ -159,9 +147,9 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Argon PRO Flutter. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Argon Flutter. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Argon PRO Flutter.
+1. Make sure that you are using the latest version of the Argon Flutter.
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be platform specific, so specifying on what platform you encountered the issue might help.
 
@@ -173,9 +161,9 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/)
+- Copyright 2020 Creative Tim (https://www.creative-tim.com/)
 
-- Creative Tim [license](https://creative-tim.com/license)
+- Licensed under MIT
 
 
 
