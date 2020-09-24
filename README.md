@@ -4,7 +4,7 @@
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-flutter.svg?style=flat)](https://github.com/creativetimofficial/argon-flutter/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-flutter.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-flutter/issues?q=is%3Aissue+is%3Aclosed)
 
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-flutter/argp-flutter-thumbnail.jpg)
+![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-flutter/arg-flutter-thumbnail.jpg)
 
 Argon Flutter is a free mobile UI template built with Google's [Flutter](https://flutter.dev/) allowing you to create powerful and beautiful mobile applications.. We have redesigned all the usual components in order to make it look like Argon's Design System, minimalistic and easy to use.
 
