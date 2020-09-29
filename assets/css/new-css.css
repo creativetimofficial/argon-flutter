@@ -115,16 +115,16 @@ footer{
 
 img.phone1{
   position: absolute;
-  right: -25%;
-  width: 150%;
+  right: -65%;
+  width: 200%;
   margin-top: -20px;
   z-index: 3;
 }
 
 img.phone2{
   position: absolute;
-  width: 175%;
-  right: -345px;
+  width: 230%;
+  right: -425px;
   margin-top: -50px;
   z-index: 2;
 }
