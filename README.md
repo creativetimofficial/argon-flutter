@@ -1,9 +1,3 @@
-<a href="https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf-readme-2020">
-<img border="0" alt="Creative Tim Black Friday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/bf-github-banner.png" >
-</a>
-
-
-
 # [Argon Flutter](https://creativetimofficial.github.io/argon-flutter/docs/#) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Start%20Your%20Development%20With%20A%20Badass%20Flutter%20app%20inspired%20by%20Argon%20Design%20System.%0Ahttps%3A//demos.creative-tim.com/argon-flutter/)
 
 
