@@ -76,13 +76,15 @@ class _RegisterState extends State<Register> {
                                         Container(
                                           // width: 0,
                                           height: 36,
-                                          child: RaisedButton(
-                                              textColor: ArgonColors.primary,
-                                              color: ArgonColors.secondary,
-                                              onPressed: () {},
-                                              shape: RoundedRectangleBorder(
+                                          child: ElevatedButton(
+                                              style: ElevatedButton.styleFrom(
+                                                foregroundColor: ArgonColors.primary,
+                                                backgroundColor: ArgonColors.secondary,
+                                                shape: RoundedRectangleBorder(
                                                   borderRadius:
                                                       BorderRadius.circular(4)),
+                                              ),
+                                              onPressed: () {},
                                               child: Padding(
                                                   padding: EdgeInsets.only(
                                                       bottom: 10,
@@ -113,13 +115,15 @@ class _RegisterState extends State<Register> {
                                         Container(
                                           // width: 0,
                                           height: 36,
-                                          child: RaisedButton(
-                                              textColor: ArgonColors.primary,
-                                              color: ArgonColors.secondary,
-                                              onPressed: () {},
-                                              shape: RoundedRectangleBorder(
+                                          child: ElevatedButton(
+                                              style: ElevatedButton.styleFrom(
+                                                foregroundColor: ArgonColors.primary,
+                                                backgroundColor: ArgonColors.secondary,
+                                                shape: RoundedRectangleBorder(
                                                   borderRadius:
                                                       BorderRadius.circular(4)),
+                                              ),
+                                              onPressed: () {},
                                               child: Padding(
                                                   padding: EdgeInsets.only(
                                                       bottom: 10,
@@ -260,18 +264,20 @@ class _RegisterState extends State<Register> {
                                       Padding(
                                         padding: const EdgeInsets.only(top: 16),
                                         child: Center(
-                                          child: FlatButton(
-                                            textColor: ArgonColors.white,
-                                            color: ArgonColors.primary,
+                                          child: TextButton(
+                                            style: TextButton.styleFrom(
+                                              foregroundColor: ArgonColors.white,
+                                              backgroundColor: ArgonColors.primary,
+                                              shape: RoundedRectangleBorder(
+                                                borderRadius:
+                                                    BorderRadius.circular(4.0),
+                                              ),
+                                            ),
                                             onPressed: () {
                                               // Respond to button press
                                               Navigator.pushNamed(
                                                   context, '/home');
                                             },
-                                            shape: RoundedRectangleBorder(
-                                              borderRadius:
-                                                  BorderRadius.circular(4.0),
-                                            ),
                                             child: Padding(
                                                 padding: EdgeInsets.only(
                                                     left: 16.0,
